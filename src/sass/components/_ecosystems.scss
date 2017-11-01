@@ -1,0 +1,9 @@
+.ecosystem-flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ecosystem-flex-item {
+  border: 10px solid $neongreen;
+  width: 50%;
+}

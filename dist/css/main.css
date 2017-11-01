@@ -1,0 +1,28 @@
+h1.atom-flex-item {
+  background: #7b99fa;
+  border: 10px solid #7b99fa;
+  color: #fff;
+  font-size: 35pt;
+  margin: 0;
+  text-align: center; }
+
+.molecule-flex-item {
+  border: 10px solid #0278ae;
+  margin: 0; }
+
+.organism-flex-item {
+  border: 10px solid #e8ffb1;
+  margin: 0;
+  width: 100%; }
+
+.ecosystem-flex-container {
+  display: flex;
+  justify-content: space-around; }
+
+.ecosystem-flex-item {
+  border: 10px solid #51dacf;
+  width: 50%; }
+
+.environment-flex-container {
+  border: 10px solid #6173f4;
+  display: flex; }

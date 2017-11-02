@@ -38,5 +38,5 @@ Then bring up the [Home Page](http://localhost:8088/index.html)
 
 ### Test
 
-* Add unit testing with Jest
-* Add UI tests (Selinium or other)
+* Unit testing with Jest
+* UI tests (Selinium )

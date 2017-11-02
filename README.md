@@ -1,5 +1,5 @@
 # React-Atomic-Example
-Atomic design implemented with React Framework
+Atomic design principles implemented with React Framework
 
 ## react-atomic-goodstart
 
